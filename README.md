@@ -1,6 +1,6 @@
 # Report-insta
-Report Instagram 
-# Run 
+
+## Run 
 
 * apt update
 * apt upgrade
